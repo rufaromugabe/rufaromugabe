@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Rufaro Mugabe 👋
 
-<!--
-**rufaromugabe/rufaromugabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate software engineer currently studying at the Harare Institute of Technology, specializing in **mobile** and **web development** with **Flutter** and **React**.
 
-Here are some ideas to get you started:
+### Areas of Expertise
+- Mobile Development with Flutter
+- Web Development with React
+- AI and Machine Learning (Python, MobileNetV2, Gemini)
+- API Integrations (FastAPI, Firebase, Google Classroom API)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+1. **Eureka AI** - An AI-powered study app that assists students.
+2. **Business Directory API** - A directory for businesses with automated data scraping.
+3. **Face Recognition System** - A real-time face recognition system with MobileNetV2.
+4. **afrAInity Technologies** - AI-based startup focused on AI-powered solutions for Africa.
+
+### Contact Me
+- Email: rufaro@example.com
+- LinkedIn: [Your LinkedIn profile](https://www.linkedin.com)
+- Twitter: [@YourTwitterHandle](https://twitter.com)
+
+### Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
