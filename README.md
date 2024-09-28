@@ -22,7 +22,10 @@ I'm a passionate software engineer currently studying at the Harare Institute of
 - Twitter: [@YourTwitterHandle](https://twitter.com)
 
 ### Technologies & Tools
-**![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart)
-![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)**
+### Technologies & Tools
+
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" width="100" height="40"/>
+<img src="https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart" width="100" height="40"/>
+<img src="https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter" width="100" height="40"/>
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" width="100" height="40"/>
+
