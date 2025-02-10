@@ -26,7 +26,4 @@ I'm a passionate software engineer currently studying at the Harare Institute of
 3. **Face Recognition System** - A real-time face recognition system with MobileNetV2.
 4. **afrAInity Technologies** - AI-based startup focused on AI-powered solutions for Africa.
 
-### Contact Me
-- Email: rufaro@example.com
-- LinkedIn: [Your LinkedIn profile](https://www.linkedin.com)
-- Twitter: [@YourTwitterHandle](https://twitter.com)
+
